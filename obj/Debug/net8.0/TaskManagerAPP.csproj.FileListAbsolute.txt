@@ -367,6 +367,8 @@ C:/Users/SathvikK/Desktop/ASP.Net Core/TaskManagerAPP/obj/Debug/net8.0/ref/TaskM
 /home/sathvik/Desktop/TaskManagerAPP/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
 /home/sathvik/Desktop/TaskManagerAPP/bin/Debug/net8.0/Mono.TextTemplating.dll
 /home/sathvik/Desktop/TaskManagerAPP/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/sathvik/Desktop/TaskManagerAPP/bin/Debug/net8.0/Npgsql.dll
+/home/sathvik/Desktop/TaskManagerAPP/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
 /home/sathvik/Desktop/TaskManagerAPP/bin/Debug/net8.0/NuGet.Common.dll
 /home/sathvik/Desktop/TaskManagerAPP/bin/Debug/net8.0/NuGet.Configuration.dll
 /home/sathvik/Desktop/TaskManagerAPP/bin/Debug/net8.0/NuGet.DependencyResolver.Core.dll
@@ -570,6 +572,7 @@ C:/Users/SathvikK/Desktop/ASP.Net Core/TaskManagerAPP/obj/Debug/net8.0/ref/TaskM
 /home/sathvik/Desktop/TaskManagerAPP/obj/Debug/net8.0/TaskManagerAPP.MvcApplicationPartsAssemblyInfo.cache
 /home/sathvik/Desktop/TaskManagerAPP/obj/Debug/net8.0/TaskManagerAPP.RazorAssemblyInfo.cache
 /home/sathvik/Desktop/TaskManagerAPP/obj/Debug/net8.0/TaskManagerAPP.RazorAssemblyInfo.cs
+/home/sathvik/Desktop/TaskManagerAPP/obj/Debug/net8.0/TaskManagerAPP.sourcelink.json
 /home/sathvik/Desktop/TaskManagerAPP/obj/Debug/net8.0/staticwebassets.build.json
 /home/sathvik/Desktop/TaskManagerAPP/obj/Debug/net8.0/staticwebassets.development.json
 /home/sathvik/Desktop/TaskManagerAPP/obj/Debug/net8.0/staticwebassets/msbuild.TaskManagerAPP.Microsoft.AspNetCore.StaticWebAssets.props
@@ -586,5 +589,3 @@ C:/Users/SathvikK/Desktop/ASP.Net Core/TaskManagerAPP/obj/Debug/net8.0/ref/TaskM
 /home/sathvik/Desktop/TaskManagerAPP/obj/Debug/net8.0/TaskManagerAPP.pdb
 /home/sathvik/Desktop/TaskManagerAPP/obj/Debug/net8.0/TaskManagerAPP.genruntimeconfig.cache
 /home/sathvik/Desktop/TaskManagerAPP/obj/Debug/net8.0/ref/TaskManagerAPP.dll
-/home/sathvik/Desktop/TaskManagerAPP/bin/Debug/net8.0/Npgsql.dll
-/home/sathvik/Desktop/TaskManagerAPP/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
